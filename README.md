@@ -1,6 +1,3 @@
-Certainly! Here's the README content in Markdown format that you can use to create a `README.md` file for your GitHub profile page:
-
-```markdown
 # Welcome to SkeyRahaman's GitHub Profile
 
 Hello there! Welcome to my GitHub profile page. Here you'll find a collection of my projects, both big and small, that I've been working on. I'm passionate about coding, data analysis, and building useful applications.
@@ -29,6 +26,4 @@ I have a wide variety of projects in my GitHub repository. Here are some highlig
 You can find me on [my personal portfolio website](https://shakib-portfolio-app.herokuapp.com) if you want to learn more about me or contact me. I'm always open to collaboration and learning from others, so don't hesitate to reach out.
 
 Thank you for visiting my GitHub profile! I hope you find something interesting in my projects. Happy coding!
-```
 
-You can copy and paste this content into a `README.md` file in your GitHub profile repository, and it will be formatted nicely for visitors to your profile.
