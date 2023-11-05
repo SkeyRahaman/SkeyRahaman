@@ -1,4 +1,4 @@
-# Welcome to SkeyRahaman's GitHub Profile
+# Welcome to Shakib's GitHub Profile
 
 Hello there! Welcome to my GitHub profile page. Here you'll find a collection of my projects, both big and small, that I've been working on. I'm passionate about coding, data analysis, and building useful applications.
 
