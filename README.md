@@ -13,7 +13,13 @@ Welcome to my GitHub — where passion for building robust backend systems meets
 ---
 
 ## 🛠️ Tech Toolbox
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=pythonhttps://img.shields.io/badge/FastAPI-2025-brightgreenhttps://img.shields.io/badge/SQLAlchemy-2.0+-orange?logohttps://img.shields.io/badge/Docker-DevOps-yellow?logohttps://img.shields.io/badge/Linux-CLI-teal?logo=linuxhttps://img.shields.io/badge/PostgreSQL-DB-316192?logohttps://img.shields.io/badge/CI/CD-GitHub_Actions-2ea
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-2025-brightgreen?logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-orange?logo=sqlalchemy)
+![Docker](https://img.shields.io/badge/Docker-DevOps-yellow?logo=docker)
+![Linux](https://img.shields.io/badge/Linux-CLI-teal?logo=linux)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-316192?logo=postgresql)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2ea44f?logo=github-actions)
 
 ---
 
@@ -42,12 +48,14 @@ Stars
 > 🥇 Top 2 Global, 1000+ problems solved on LeetCode
 > 🏆 250+ problem solutions on GeeksForGeeks
 
-![LeetCode Card](https://leetcard.jacoblin.cool/SkeyRahaman?ext=activityhttps://github-readme-stats.vercel.app/api?username=SkeyRahaman&show_icons=true
+![LeetCode Card](https://leetcard.jacoblin.cool/sakibmondal7?ext=activity)
+
 
 ## 📫 Contact Me
-- Email: sakibmondal7@gmail.com
-- LinkedIn: in/shakib-mondal
-- GitHub: @SkeyRahaman
+- Email: [sakibmondal7@gmail.com](mailto:sakibmondal7@gmail.com)
+- LinkedIn: [in/shakib-mondal](https://www.linkedin.com/in/shakib-mondal)
+- GitHub: [@SkeyRahaman](https://github.com/SkeyRahaman)
+
 
 ---
 
