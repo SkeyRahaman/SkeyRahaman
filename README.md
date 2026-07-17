@@ -33,28 +33,28 @@ Welcome to my GitHub space — where I build fast backend systems, design event-
 
 <p align="center">
   <a href="https://github.com/SkeyRahaman/Users-Module">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkeyRahaman&repo=Users-Module&theme=tokyonight" alt="Users-Module" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SkeyRahaman&repo=Users-Module&theme=tokyonight" alt="Users-Module" />
   </a>
   <a href="https://github.com/SkeyRahaman/Polling-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkeyRahaman&repo=Polling-Website&theme=tokyonight" alt="Polling-Website" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SkeyRahaman&repo=Polling-Website&theme=tokyonight" alt="Polling-Website" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SkeyRahaman/URL_Shortner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkeyRahaman&repo=URL_Shortner&theme=tokyonight" alt="URL_Shortner" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SkeyRahaman&repo=URL_Shortner&theme=tokyonight" alt="URL_Shortner" />
   </a>
   <a href="https://github.com/SkeyRahaman/My-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkeyRahaman&repo=My-Portfolio&theme=tokyonight" alt="My-Portfolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SkeyRahaman&repo=My-Portfolio&theme=tokyonight" alt="My-Portfolio" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SkeyRahaman/Blogit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkeyRahaman&repo=Blogit&theme=tokyonight" alt="Blogit" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SkeyRahaman&repo=Blogit&theme=tokyonight" alt="Blogit" />
   </a>
   <a href="https://github.com/SkeyRahaman/Send-WhatsApp-Message-Using-Selenium-And-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkeyRahaman&repo=Send-WhatsApp-Message-Using-Selenium-And-Python&theme=tokyonight" alt="WhatsApp Automation Script" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SkeyRahaman&repo=Send-WhatsApp-Message-Using-Selenium-And-Python&theme=tokyonight" alt="WhatsApp Automation Script" />
   </a>
 </p>
 
