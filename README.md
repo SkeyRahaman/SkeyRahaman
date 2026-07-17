@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Md Shakib Mondal!</h1>
 <p align="center">
-  <strong>Specialist Programmer at Infosys (Apple Account) | Backend Specialist | AI & Data Engineering Enthusiast</strong>
+  <strong>Backend Engineer | Specializing in FastAPI, Python Microservices & AI Agent Orchestration</strong>
 </p>
 
 <p align="center">
@@ -66,25 +66,6 @@ Welcome to my GitHub profile — where passion for building robust backend syste
   <img src="https://img.shields.io/badge/Grafana-Monitoring-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
 </p>
-
----
-
-## 💼 Professional Experience
-
-### 🍎 **Infosys** — *Specialist Programmer* (Project Account: Apple)
-*March 2025 – Present | Kolkata, India*
-- Ported **3 core microservices** from Django REST Framework to an async FastAPI stack, lifting throughput and scalability under peak load.
-- Hardened newly launched services for production — resolving memory leaks, introducing database connection pooling, and right-sizing Kubernetes memory limits — which held memory usage flat in Grafana and ended crashes that had recurred several times a day.
-- Developed the REST backend behind a planning dashboard — serving aggregated SingleStore data to the UI and a trigger-driven endpoint that rebuilds source tables from upstream feeds.
-- Engineered an automated **AWS S3 pipeline** that ingests and processes uploaded files, fanning out parallel workflows and emitting completion status notifications.
-- Improved application security across a **20+ microservice platform**, eliminating SQL-injection vulnerabilities and refactoring unsafe code patterns.
-
-### 💼 **Accenture** — *Software Engineer* (Project Account: SAP)
-*August 2021 – March 2025 | Kolkata, India*
-- Built and owned a **FastAPI orchestration service** invoked over REST by Accenture's *myWizard* to automate tasks across ServiceNow, Active Directory, and MySQL — reducing manual effort by **40%** over 500+ monthly tickets.
-- Fully automated Active Directory password resets, replacing a manual support-desk workflow and eliminating **1,000+ manual requests per month**.
-- Automated log archival via a ticket-triggered job that fetches up to **5 GB of Salesforce logs** for a given time range and backups them in AWS S3 for audit compliance.
-- Containerized and deployed the service with Docker on a VPC server, adding ServiceNow incident raising on failures to reduce deployment errors by **45%**.
 
 ---
 
